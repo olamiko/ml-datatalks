@@ -1,0 +1,172 @@
+,,,,id,gender,age,frequency_of_purchase,price_of_snack,favorite_snack
+,,,,1,Male,28,3,"2,000.00","samosa, chapati, cassava"
+,,,,2,Male,39,3,"5,500.00","bread, rolex, chapati"
+,,,,3,Female,36,3,"1,000.00","chapati, samosa, mandazi"
+,,,,4,Male,43,2,"1,000.00","cassava, chapati"
+,,,,5,Female,23,3,"1,500.00",samosa
+,,,,6,Male,26,2,"3,000.00","rolex, fried_cassava"
+,,,,7,Male,24,4,"1,000.00",chapati
+,,,,8,Female,23,2,"2,500.00",rolex
+,,,,9,Male,17,5,"1,000.00",chapati
+,,,,10,Male,27,4,"2,000.00","chapati, rolex"
+,,,,11,Male,32,4,"1,000.00",samosa
+,,,,12,Female,34,3,"1,000.00","fried_cassava, samosa"
+,,,,13,Male,20,4,"1,500.00","rolex, kikomando"
+,,,,14,Female,14,3,"5,000.00","chapati, bread"
+,,,,15,Female,25,3,"1,000.00",samosa
+,,,,16,Male,29,3,"2,500.00","rolex, cassava, mandazi"
+,,,,17,Female,23,2,"1,500.00",rolex
+,,,,18,Male,41,4,"1,000.00",chapati
+,,,,19,Female,31,3,"3,000.00","samosa, chapati"
+,,,,20,Male,24,3,"2,000.00","rolex, kikomando"
+,,,,21,Female,27,2,"2,000.00",rolex
+,,,,22,Female,30,3,"2,000.00",rolex
+,,,,23,Male,15,2,"2,000.00",rolex
+,,,,24,Female,17,3,"1,000.00","chapati, samosa"
+,,,,25,Female,28,4,"1,000.00","chapati, mandazi, rolex, bread"
+,,,,26,Male,21,2,"1,000.00","chapati, mandazi"
+,,,,27,Male,27,2,"2,000.00",rolex
+,,,,28,Male,30,3,"2,000.00",rolex
+,,,,29,Female,27,5,"1,000.00",chapati
+,,,,30,Female,25,2,"1,000.00","samosa, chapati"
+,,,,31,Female,23,2,"3,000.00",bread
+,,,,32,Female,16,3,"1,000.00","chapati, mandazi, samosa"
+,,,,33,Female,28,2,"2,000.00","kikomando, rolex"
+,,,,34,Male,12,3,"3,000.00",bread
+,,,,35,Male,29,2,"2,000.00",rolex
+,,,,36,Female,26,4,"1,000.00","samosa, chapati"
+,,,,37,Female,25,2,"3,000.00",bread
+,,,,38,Female,38,3,"1,000.00","chapati, mandazi, bread"
+,,,,39,Male,31,2,"2,000.00",rolex
+,,,,40,Male,32,3,"2,000.00",rolex
+,,,,41,Female,14,3,"1,000.00","bread, chapati, mandazi"
+,,,,42,Male,27,3,"1,000.00",chapati
+,,,,43,Female,32,2,"6,000.00",bread
+,,,,44,Male,39,3,"2,000.00",rolex
+,,,,45,Female,25,3,"1,000.00","bread, mandazi, chapati"
+,,,,46,Female,29,2,"2,000.00",rolex
+,,,,47,Female,20,3,"2,000.00","chapati, bread"
+,,,,48,Female,4,5,"1,000.00",bread
+,,,,49,Female,22,2,"2,000.00",rolex
+,,,,50,Male,25,4,"1,500.00",kikomando
+,,,,51,Female,21,3,"1,000.00",samosa
+,,,,52,Female,27,2,"1,000.00",chapati
+,,,,53,Female,37,3,"6,000.00",bread
+,,,,54,Male,7,4,"1,000.00","bread, samosa, chapati"
+,,,,55,Male,28,3,"2,000.00","rolex, mandazi"
+,,,,56,Female,13,4,"2,000.00",bread
+,,,,57,Male,46,2,"2,000.00",rolex
+,,,,58,Female,33,2,"1,000.00","chapati, half_cake"
+,,,,59,Male,20,3,"1,500.00","rolex, kikomando, mandazi"
+,,,,60,Female,21,3,"1,000.00",bread
+,,,,61,Female,24,3,"1,000.00","chapati, samosa"
+,,,,62,Male,27,4,"1,000.00","chapati, doughnuts, cassava"
+,,,,63,Male,32,3,"2,500.00",rolex
+,,,,64,Female,29,3,"3,000.00","chips, samosa, bread"
+,,,,65,Female,20,4,"1,000.00",bread
+,,,,66,Female,19,3,"1,000.00","bread, samosa"
+,,,,67,Female,23,3,"1,000.00",chapati
+,,,,68,Male,32,2,"1,000.00",chapati
+,,,,69,Male,43,3,"2,000.00",rolex
+,,,,70,Male,15,5,"1,000.00","chapati, cassava"
+,,,,71,Female,35,1,"3,000.00",bread
+,,,,72,Female,28,2,"2,000.00",rolex
+,,,,73,Female,25,3,"1,000.00","mandazi, samosa"
+,,,,75,Female,26,2,"3,000.00","chips, chapati, mandazi"
+,,,,76,Female,22,3,"1,000.00","chapati, mandazi"
+,,,,77,Male,30,4,"2,000.00",rolex
+,,,,78,Male,25,2,"2,000.00",rolex
+,,,,79,Male,27,4,"2,500.00",rolex
+,,,,80,Male,21,4,"1,000.00","cassava chips, chapati"
+,,,,81,Female,37,3,"2,000.00","chapati, bread"
+,,,,82,Female,20,2,"2,000.00","mandazi, chapati, rolex"
+,,,,83,Male,6,3,"4,000.00",chips
+,,,,84,Female,25,3,"1,000.00",bread
+,,,,85,Female,25,3,"1,000.00","bans, chapati"
+,,,,86,Female,18,2,"2,000.00","rolex, cassava"
+,,,,87,Female,41,2,"6,000.00",bread
+,,,,88,Male,14,2,"1,000.00","mandazi, chapati"
+,,,,89,Female,45,3,"2,000.00",doughnuts
+,,,,90,Female,22,3,"1,000.00",samosa
+,,,,91,Male,36,3,"2,000.00",rolex
+,,,,92,Male,37,3,"1,000.00",chapati
+,,,,93,Male,47,2,"2,500.00",rolex
+,,,,94,Female,31,3,"2,000.00",rolex
+,,,,95,Female,2,6,500.00,bread
+,,,,96,Male,29,4,"1,000.00",chapati
+,,,,97,Male,28,5,"1,000.00",chapati
+,,,,98,Male,27,3,"2,000.00","mandazi, rolex, kikomando, bread"
+,,,,99,Male,31,2,"6,000.00",bread
+,,,,100,Male,19,4,"1,000.00",kikomando
+,,,,101,Female,35,3,"6,000.00",bread
+,,,,102,Male,15,2,"1,000.00",chapati
+,,,,103,Female,23,2,"1,000.00","samosa, chapati, chips, bread"
+,,,,104,Female,30,3,"3,000.00",bread
+,,,,105,Male,28,4,"2,000.00","rolex, cassava"
+,,,,106,Female,18,2,"1,000.00","chapati, groundnuts, samosa"
+,,,,107,Female,24,4,"2,000.00","rolex, sausages"
+,,,,108,Male,21,2,"2,000.00","chapati, rolex, samosa"
+,,,,109,Male,43,4,"1,000.00",chapati
+,,,,110,Female,17,3,"1,000.00","rolex, gonna_crisp,mandazi"
+,,,,111,Female,39,2,"2,000.00","fried_cassava, chapati"
+,,,,112,Male,26,3,"2,000.00","rolex, cassava"
+,,,,113,Female,32,2,"2,000.00",egg_roll
+,,,,114,Male,20,3,"1,000.00","mandazi, chapati"
+,,,,115,Female,20,3,"1,000.00","chapati, crispy"
+,,,,116,Male,13,2,"2,000.00","rolex, mandazi"
+,,,,117,Male,19,3,500.00,mandazi
+,,,,118,Male,46,4,"1,000.00","cassava, chapati"
+,,,,119,Female,24,2,"1,500.00","rolex, cakes"
+,,,,120,Female,20,3,500.00,mandazi
+,,,,121,Male,34,4,"2,000.00",rolex
+,,,,122,Male,23,3,"1,000.00",kikomando
+,,,,123,Female,15,2,"2,000.00","rolex, daddies, cookies"
+,,,,124,Male,32,2,"2,000.00","fried_cassava, chapati, mandazi"
+,,,,125,Female,8,2,500.00,daddies
+,,,,126,Female,27,3,"3,000.00","chapati, chips, bread"
+,,,,127,Female,12,2,"1,000.00",samosa
+,,,,128,Female,33,3,"3,000.00",bread
+,,,,129,Female,31,3,"1,000.00",groundnuts
+,,,,130,Male,20,4,"1,000.00","chapati, mandazi, cassava"
+,,,,131,Female,20,2,"1,000.00",chapati
+,,,,132,Male,30,3,"2,000.00",rolex
+,,,,133,Male,42,3,"6,000.00",bread
+,,,,134,Female,23,4,"6,000.00",bread
+,,,,135,Male,24,7,"1,000.00",cake
+,,,,136,Female,45,7,"1,000.00",chapati
+,,,,137,Female,2,5,"1,000.00",bread
+,,,,138,Male,22,4,"1,000.00",kikomando
+,,,,139,Male,31,4,"6,000.00",bread
+,,,,140,Female,25,3,500.00,mandazi
+,,,,141,Male,41,4,500.00,mandazi
+,,,,142,Male,33,5,"1,500.00","chapati , eggs"
+,,,,143,Male,32,3,"6,000.00",bread
+,,,,144,Female,37,3,"1,000.00","groundnuts, corn"
+,,,,145,Female,29,5,"3,500.00","cookies , salty_crisps"
+,,,,146,Female,33,3,"3,500.00",bread
+,,,,147,Female,27,3,"2,000.00","chapati, crisps"
+,,,,148,Male,13,2,"1,000.00",fried_cassava
+,,,,149,Male,7,3,500.00,samosa
+,,,,150,Female,7,5,"5,500.00",bread
+,,,,151,Male,26,14,"2,000.00",samosa
+,,,,152,Female,29,3,"1,000.00",samosa
+,,,,153,Male,29,5,"1,000.00",fried_cassava
+,,,,154,Male,30,4,"1,500.00",chapati
+,,,,155,Male,38,4,"2,000.00",rolex
+,,,,156,Male,17,3,"2,000.00","chapati, rolex"
+,,,,157,Male,30,6,"1,000.00",cassava
+,,,,158,Female,26,7,"1,000.00","groundnuts, daddies"
+,,,,159,Female,23,2,"1,000.00",chapati
+,,,,160,Male,14,5,"1,000.00",chapati
+,,,,161,Male,32,4,"1,000.00","chapati, rolex, cassava, mandazi"
+,,,,162,Male,27,4,"1,000.00",chapati
+,,,,163,Male,30,5,"1,000.00",chapati 
+,,,,164,Female,19,4,"1,000.00",bread
+,,,,165,Male,27,5,"1,000.00",fried_cassava
+,,,,166,Male,23,4,"1,000.00",chapati
+,,,,167,Female,37,7,"3,000.00",bread
+,,,,168,Female,34,3,"6,000.00",bread
+,,,,169,Female,2,3,"2,000.00","cake, gorrillos, bread"
+,,,,170,Female,34,3,500.00,pop_corns
+,,,,171,Female,23,3,"1,000.00",daddies 
+,,,,172,Male,0,4,"1,000.00",chapati
